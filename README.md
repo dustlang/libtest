@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.com/rust-lang/libtest.svg?branch=master)](https://travis-ci.com/rust-lang/libtest) [![Build Status](https://dev.azure.com/rust-lang/libtest/_apis/build/status/libtest-CI?branchName=master)](https://dev.azure.com/rust-lang/libtest/_build/latest?definitionId=1&branchName=master) [![Latest Version]][crates.io] [![docs]][docs.rs]
+[![Build Status](https://travis-ci.com/dustlang/libtest.svg?branch=master)](https://travis-ci.com/dustlang/libtest)  [![Latest Version]][crates.io] [![docs]][docs.rs]
 
-libtest - Rust's built-in unit-testing and benchmarking framework
+libtest - Dust's built-in unit-testing and benchmarking framework
 ===
 
 See [The Rust Programming Language chapter on
